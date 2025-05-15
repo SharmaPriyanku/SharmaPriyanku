@@ -3,7 +3,7 @@
 ### I'm a MERN stack developer and learner
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to open-source projects
 - ⚡ Fun fact: I love poetry and I write things [other than code too]
 
 ### Spotify Playing 🎧
